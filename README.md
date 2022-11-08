@@ -18,3 +18,5 @@ ln -s /usr/local/bin/openssl /usr/bin/openssl
 ldconfig /usr/local/lib64/
 openssl version
 ```
+
+In case of presenting the same error run **ldconfig /usr/local/lib64/** with root privileges
