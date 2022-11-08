@@ -1,5 +1,7 @@
 # openssl_reinstall
-Solve problem on arch linux usr/lib/libcrypto.so.3: version `OPENSSL_3.0.0' not found 
+Solve problem on Arch Linux usr/lib/libcrypto.so.3: version `OPENSSL_3.0.0' not found 
+
+Start with su command, run this commands with root privileges
 
 ```
 cd /usr/src
