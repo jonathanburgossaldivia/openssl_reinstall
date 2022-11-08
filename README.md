@@ -3,6 +3,8 @@ Solve problem on Arch Linux usr/lib/libcrypto.so.3: version `OPENSSL_3.0.0' not 
 
 Start with su command, run this commands with root privileges
 
+fix **usr/lib/libcrypto.so.3: version `OPENSSL_3.0.0' not found** issue on Arch Linux and derived distributions
+
 ```
 cd /usr/src
 wget https://www.openssl.org/source/openssl-3.0.7.tar.gz
